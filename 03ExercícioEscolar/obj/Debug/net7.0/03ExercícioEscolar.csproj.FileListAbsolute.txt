@@ -1,0 +1,14 @@
+C:\Users\rafael\Desktop\POO-estudos\03ExercícioEscolar\obj\Debug\net7.0\03ExercícioEscolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael\Desktop\POO-estudos\03ExercícioEscolar\obj\Debug\net7.0\03ExercícioEscolar.AssemblyInfoInputs.cache
+C:\Users\rafael\Desktop\POO-estudos\03ExercícioEscolar\obj\Debug\net7.0\03ExercícioEscolar.AssemblyInfo.cs
+C:\Users\rafael\Desktop\POO-estudos\03ExercícioEscolar\obj\Debug\net7.0\03ExercícioEscolar.csproj.CoreCompileInputs.cache
+C:\Users\rafael\Desktop\POO-estudos\03ExercícioEscolar\bin\Debug\net7.0\03ExercícioEscolar.exe
+C:\Users\rafael\Desktop\POO-estudos\03ExercícioEscolar\bin\Debug\net7.0\03ExercícioEscolar.deps.json
+C:\Users\rafael\Desktop\POO-estudos\03ExercícioEscolar\bin\Debug\net7.0\03ExercícioEscolar.runtimeconfig.json
+C:\Users\rafael\Desktop\POO-estudos\03ExercícioEscolar\bin\Debug\net7.0\03ExercícioEscolar.dll
+C:\Users\rafael\Desktop\POO-estudos\03ExercícioEscolar\bin\Debug\net7.0\03ExercícioEscolar.pdb
+C:\Users\rafael\Desktop\POO-estudos\03ExercícioEscolar\obj\Debug\net7.0\03ExercícioEscolar.dll
+C:\Users\rafael\Desktop\POO-estudos\03ExercícioEscolar\obj\Debug\net7.0\refint\03ExercícioEscolar.dll
+C:\Users\rafael\Desktop\POO-estudos\03ExercícioEscolar\obj\Debug\net7.0\03ExercícioEscolar.pdb
+C:\Users\rafael\Desktop\POO-estudos\03ExercícioEscolar\obj\Debug\net7.0\03ExercícioEscolar.genruntimeconfig.cache
+C:\Users\rafael\Desktop\POO-estudos\03ExercícioEscolar\obj\Debug\net7.0\ref\03ExercícioEscolar.dll

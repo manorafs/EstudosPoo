@@ -1,0 +1,14 @@
+C:\Users\rafael\Desktop\POO-estudos\04ExercicioIMC\obj\Debug\net7.0\04ExercicioIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael\Desktop\POO-estudos\04ExercicioIMC\obj\Debug\net7.0\04ExercicioIMC.AssemblyInfoInputs.cache
+C:\Users\rafael\Desktop\POO-estudos\04ExercicioIMC\obj\Debug\net7.0\04ExercicioIMC.AssemblyInfo.cs
+C:\Users\rafael\Desktop\POO-estudos\04ExercicioIMC\obj\Debug\net7.0\04ExercicioIMC.csproj.CoreCompileInputs.cache
+C:\Users\rafael\Desktop\POO-estudos\04ExercicioIMC\bin\Debug\net7.0\04ExercicioIMC.exe
+C:\Users\rafael\Desktop\POO-estudos\04ExercicioIMC\bin\Debug\net7.0\04ExercicioIMC.deps.json
+C:\Users\rafael\Desktop\POO-estudos\04ExercicioIMC\bin\Debug\net7.0\04ExercicioIMC.runtimeconfig.json
+C:\Users\rafael\Desktop\POO-estudos\04ExercicioIMC\bin\Debug\net7.0\04ExercicioIMC.dll
+C:\Users\rafael\Desktop\POO-estudos\04ExercicioIMC\bin\Debug\net7.0\04ExercicioIMC.pdb
+C:\Users\rafael\Desktop\POO-estudos\04ExercicioIMC\obj\Debug\net7.0\04ExercicioIMC.dll
+C:\Users\rafael\Desktop\POO-estudos\04ExercicioIMC\obj\Debug\net7.0\refint\04ExercicioIMC.dll
+C:\Users\rafael\Desktop\POO-estudos\04ExercicioIMC\obj\Debug\net7.0\04ExercicioIMC.pdb
+C:\Users\rafael\Desktop\POO-estudos\04ExercicioIMC\obj\Debug\net7.0\04ExercicioIMC.genruntimeconfig.cache
+C:\Users\rafael\Desktop\POO-estudos\04ExercicioIMC\obj\Debug\net7.0\ref\04ExercicioIMC.dll

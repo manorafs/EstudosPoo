@@ -1,0 +1,14 @@
+C:\Users\rafael\Desktop\POO-estudos\01concepts\bin\Debug\net7.0\01concepts.exe
+C:\Users\rafael\Desktop\POO-estudos\01concepts\bin\Debug\net7.0\01concepts.deps.json
+C:\Users\rafael\Desktop\POO-estudos\01concepts\bin\Debug\net7.0\01concepts.runtimeconfig.json
+C:\Users\rafael\Desktop\POO-estudos\01concepts\bin\Debug\net7.0\01concepts.dll
+C:\Users\rafael\Desktop\POO-estudos\01concepts\bin\Debug\net7.0\01concepts.pdb
+C:\Users\rafael\Desktop\POO-estudos\01concepts\obj\Debug\net7.0\01concepts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael\Desktop\POO-estudos\01concepts\obj\Debug\net7.0\01concepts.AssemblyInfoInputs.cache
+C:\Users\rafael\Desktop\POO-estudos\01concepts\obj\Debug\net7.0\01concepts.AssemblyInfo.cs
+C:\Users\rafael\Desktop\POO-estudos\01concepts\obj\Debug\net7.0\01concepts.csproj.CoreCompileInputs.cache
+C:\Users\rafael\Desktop\POO-estudos\01concepts\obj\Debug\net7.0\01concepts.dll
+C:\Users\rafael\Desktop\POO-estudos\01concepts\obj\Debug\net7.0\refint\01concepts.dll
+C:\Users\rafael\Desktop\POO-estudos\01concepts\obj\Debug\net7.0\01concepts.pdb
+C:\Users\rafael\Desktop\POO-estudos\01concepts\obj\Debug\net7.0\01concepts.genruntimeconfig.cache
+C:\Users\rafael\Desktop\POO-estudos\01concepts\obj\Debug\net7.0\ref\01concepts.dll

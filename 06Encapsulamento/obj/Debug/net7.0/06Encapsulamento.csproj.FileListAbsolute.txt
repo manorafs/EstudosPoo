@@ -1,0 +1,14 @@
+C:\Users\rafael\Desktop\POO-estudos\06Encapsulamento\obj\Debug\net7.0\06Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael\Desktop\POO-estudos\06Encapsulamento\obj\Debug\net7.0\06Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\rafael\Desktop\POO-estudos\06Encapsulamento\obj\Debug\net7.0\06Encapsulamento.AssemblyInfo.cs
+C:\Users\rafael\Desktop\POO-estudos\06Encapsulamento\obj\Debug\net7.0\06Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\rafael\Desktop\POO-estudos\06Encapsulamento\bin\Debug\net7.0\06Encapsulamento.exe
+C:\Users\rafael\Desktop\POO-estudos\06Encapsulamento\bin\Debug\net7.0\06Encapsulamento.deps.json
+C:\Users\rafael\Desktop\POO-estudos\06Encapsulamento\bin\Debug\net7.0\06Encapsulamento.runtimeconfig.json
+C:\Users\rafael\Desktop\POO-estudos\06Encapsulamento\bin\Debug\net7.0\06Encapsulamento.dll
+C:\Users\rafael\Desktop\POO-estudos\06Encapsulamento\bin\Debug\net7.0\06Encapsulamento.pdb
+C:\Users\rafael\Desktop\POO-estudos\06Encapsulamento\obj\Debug\net7.0\06Encapsulamento.dll
+C:\Users\rafael\Desktop\POO-estudos\06Encapsulamento\obj\Debug\net7.0\refint\06Encapsulamento.dll
+C:\Users\rafael\Desktop\POO-estudos\06Encapsulamento\obj\Debug\net7.0\06Encapsulamento.pdb
+C:\Users\rafael\Desktop\POO-estudos\06Encapsulamento\obj\Debug\net7.0\06Encapsulamento.genruntimeconfig.cache
+C:\Users\rafael\Desktop\POO-estudos\06Encapsulamento\obj\Debug\net7.0\ref\06Encapsulamento.dll
